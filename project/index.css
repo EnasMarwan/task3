@@ -1,0 +1,173 @@
+.main{
+     width: 50%;
+    float:left;
+    padding-top: 10px;
+    padding-left: 50px
+        
+}
+nav ul li{
+    display:inline-block;
+    padding-top:10px;
+    margin-right: 20px;
+    color: dimgrey
+        
+}
+aside{
+    width: 40%;
+    float: right
+}
+ .img1{
+    border: 5px solid
+}
+section{
+     text-align: center
+}
+.fig1{
+    text-align: left;
+    padding-left: 170px
+}
+#poems:hover{
+  background-color:#c3bebe;
+    border: black solid 2px;  
+}
+#cv:hover{
+  background-color:#c3bebe;
+    border: black solid 2px;  
+}
+#information:hover{
+  background-color:#c3bebe;
+    border: black solid 2px;  
+}
+#prizes:hover{
+  background-color:#c3bebe;
+    border: black solid 2px;  
+}
+#refrences:hover{
+  background-color:#c3bebe;
+    border: black solid 2px;  
+}
+.post article header{
+    padding-left: 150px;
+    padding-top: 50px
+}
+.post article p{
+    padding-left: 150px;
+    padding-right: 150px;
+    color: dimgrey
+}
+.div1{
+  text-align: left;
+  padding-left: 200px;
+}
+
+.gallery {
+  margin: 60px;
+  border: 2px solid #ccc;
+  float: left;
+  width: 300px
+    
+
+}
+.gallery:hover {
+  border: 3px solid black
+}
+.gallery img{
+  width:100%;
+  height: auto
+}
+div p{
+    color: dimgrey
+}
+.clearfix{
+    clear:both
+}
+.div2{
+    background-color: #d8d1d1;
+    color:#211f1f;
+    padding:50px;
+    text-align: center;
+    margin-top:700px;
+    margin-bottom:50px
+}
+.div5{
+  text-align: center;
+  padding-left: 200px;
+    clear: left;
+    float: left
+}
+
+.gallery1 {
+  margin: 60px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 300px;
+
+}
+
+.gallery1:hover {
+  border: 3px solid black;
+}
+.gallery1 img{
+  width: 100%;
+    height: auto;
+}
+
+.desc1 {
+  padding: 20px;
+  text-align: center;
+    color: dimgrey
+
+}
+.div3{
+    text-align: center;
+    padding: 5px;
+    margin-top: 400px;
+    display: block
+}
+.img2{
+    height: 300px;
+    width: 550px;
+    padding-right: 10px
+}
+.div3 p{
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 350px;
+    color:dimgrey
+}
+ .img3{
+    border: 2px solid black
+}
+.div4{
+    text-align: center;
+    margin-top: 25%;
+}
+.div4 span{
+    border-color: darkgrey;
+    border: 1px solid;
+    color:dimgrey;
+    background-color: white;
+    padding: 10px 20px;
+}
+.div4 span:hover{
+    background-color: #d8d1d1;
+}
+
+footer{
+    background-color:#d8d1d1;
+    color:#211f1f;
+    padding:10px;
+    text-align: left;
+    margin-top:500px;
+    padding-left: 50px
+}
+.div2 h4{
+    padding-bottom: 30px;
+    font-family:sans-serif
+        
+}
+footer img{
+     float: right;
+    padding: 5PX
+}
